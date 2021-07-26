@@ -25,7 +25,7 @@
 	"bugs": {
 		"url": "https://github.com/samcesa45/current-portfolio-v2/issues"
 	},
-	"homepage": "https://github.com/samcesa45/current-portfolio-v2",
+	"homepage": "theming-kit.html",
 	"dependencies": {
 		"@fortawesome/fontawesome-free": "^5.15.3",
 		"autoprefixer": "^10.3.1",
